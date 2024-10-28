@@ -1,1 +1,7 @@
-# backend project of youtube and twitter
+# This is a Youtube + Twitter Backend
+
+## Technologies Used
+- Node.js
+- Express.js
+- MongoDB
+- Cloudinary
